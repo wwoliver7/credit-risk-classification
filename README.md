@@ -17,6 +17,11 @@ Write a Credit Risk Analysis Report
 ## Results
 
 
+<img width="343" alt="Results" src="https://github.com/wwoliver7/credit-risk-classification/assets/152826034/e04f384f-ce0e-4798-b1aa-f5bf8e769453">
+
+
+
+
 ## Summary
 
  In Summary , analysing the logistic regression model, it does a good job predicting healthy loans with a nearly 99% and 100% precision and recall respectively .
